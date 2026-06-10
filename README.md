@@ -30,9 +30,8 @@ Key Insights:
 
 ##Dashboard Preview
 
-"C:\Users\Yaswa\OneDrive\Desktop\Apps\Pictures\Screenshots\dash2.png"
+<img width="704" height="527" alt="dash2" src="https://github.com/user-attachments/assets/59b51c62-162b-4b45-9ac8-a8b4b8175108" />
+
 
 --Author--
 **Yaswanth Siva Reddy Kethu**
-
-The first one looks more professional for your portfolio. 🚀
